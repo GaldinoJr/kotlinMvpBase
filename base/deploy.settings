@@ -1,0 +1,8 @@
+siteUrl = https://github.com/GaldinoJr/
+gitUrl = https://github.com/GaldinoJr/TesteArrFinal
+version = 0.1.0
+groupId =  com.ibm.baseproject
+licenses = ["Apache-2.0"] // or something else
+id = base
+repository = libs
+name = Teste // actually not used
