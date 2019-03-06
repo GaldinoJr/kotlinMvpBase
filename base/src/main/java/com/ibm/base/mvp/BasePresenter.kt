@@ -1,4 +1,4 @@
-package com.galdino.testandroid.mvp
+package com.ibm.base.mvp
 
 import android.arch.lifecycle.Lifecycle
 import android.arch.lifecycle.OnLifecycleEvent

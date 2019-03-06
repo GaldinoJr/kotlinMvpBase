@@ -1,6 +1,6 @@
 siteUrl = https://github.com/GaldinoJr/
 gitUrl = https://github.com/GaldinoJr/kotlinMvpBase
-version = 0.3.0
+version = 0.3.1
 groupId =  com.ibm
 licenses = ["Apache-2.0"] // or something else
 id = base
