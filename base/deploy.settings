@@ -1,7 +1,7 @@
 siteUrl = https://github.com/GaldinoJr/
-gitUrl = https://github.com/GaldinoJr/TesteArrFinal
-version = 0.1.0
-groupId =  com.ibm.baseproject
+gitUrl = https://github.com/GaldinoJr/kotlinMvpBase
+version = 0.2.0
+groupId =  com.ibm
 licenses = ["Apache-2.0"] // or something else
 id = base
 repository = libs
